@@ -10,7 +10,7 @@ Proyecto académico de **Retrieval-Augmented Generation (RAG)** con Python, Lang
 
 El notebook conserva las pruebas y sus resultados, desde la recuperación de documentos hasta la generación con un modelo local y posteriormente mediante API.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/xfalconix/rag-google-supplier-code/blob/main/RAG%20-%20Google%20Supplier%20Code%20of%20Conduct.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/xfalconix/rag-google-supplier-code/blob/main/RAG_Google_Supplier_Code_of_Conduct.ipynb)
 
 ---
 
